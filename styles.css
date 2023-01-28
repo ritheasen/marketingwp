@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+    font-family: 'Aboreto', cursive;
+    overflow-x: hidden;
+}
+
+.navbar{
+    padding: 0.5% 10% 0.5% 10%;
+    background-color: #54B435;
+}
+
+.navbar-brand{
+    font-size: 70px;
+}
+
+.nav-item{
+    padding-left: 30px;
+}
+
+.nav-link{
+    font-size: 30px;
+    
+}
+
+#service{
+    background-color: #ADE792;
+}
+
+.fa-solid:hover{
+    color: #54B435;
+    cursor: pointer;
+}
+
+.fa-sharp:hover{
+    color: #54B435;
+    cursor: pointer;
+}
+
+.social-icon:hover{
+    cursor: pointer;
+    color: #54B435;
+}
+
+#contact{
+    background-color: #B6E2A1;
+}
+
+footer{
+    background-color: #285430;
+}
+
+.btn:hover {
+    width: 120px;
+    transform: scale(1.1);
+    transition: 1s;
+    opacity: 0.8;
+}
